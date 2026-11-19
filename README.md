@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chandra Shekhar Kumar</h1>
 
 <h3 align="center">
-  AI/ML Research Enthusiast | Computer Vision Developer
+  AI/ML Research Enthusiast | ANN | CNN | Deep Learning | Python
 </h3>
 
 <p align="center">
